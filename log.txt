@@ -1,0 +1,2 @@
+Reserved table 5: 12/5/2016	Vasil	Payed:125	Total:500
+Reserved table 1: 13/5/2016	Gosho	Payed:250	Total:500
